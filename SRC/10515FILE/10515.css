@@ -1,9 +1,9 @@
-char{
+.char{
 
     border: 1px black solid;
 }
 
-moveable{ 
+.moveable{ 
 
     background-color: blue;
 }
