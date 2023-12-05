@@ -1,0 +1,13 @@
+char{
+
+    border: 1px black solid;
+}
+
+moveable{ 
+
+    background-color: blue;
+}
+#arrrows
+{
+    background-image: url("../resource/arrows.png");
+}
