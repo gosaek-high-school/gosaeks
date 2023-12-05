@@ -1,9 +1,18 @@
-.char{
+.char
+{
 
     border: 1px black solid;
+    border-radius: 50%;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    right: 100px;
+    width: 100px;
+    height: 100px;
 }
 
-.moveable{ 
+.moveable
+{ 
 
     background-color: blue;
 }
