@@ -9,5 +9,10 @@ moveable{
 }
 #arrrows
 {
-    background-image: url("../resource/arrows.png");
+    background-image: url("../10515FILE/res/arrows.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    display: block;
+    width: 200px;
+    height: 100px;
 }
