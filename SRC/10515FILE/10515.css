@@ -7,9 +7,9 @@
 
     background-color: blue;
 }
-#arrrows
+#arrow1
 {
-    background-image: url("../10515FILE/res/arrows.png");
+    background-image: url("res/arrows.png");
     background-size: contain;
     background-repeat: no-repeat;
     display: block;
