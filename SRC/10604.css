@@ -1,0 +1,11 @@
+char{
+    border : 1px black solid;
+}
+
+.movable {
+    background-color: blue;
+}
+#arrow
+{
+    background-image: url("../resource/10604.png");
+}
