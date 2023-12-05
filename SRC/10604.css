@@ -7,5 +7,9 @@ char{
 }
 #arrow
 {
-    background-image: url("../resource/10604.png");
+    background-image: url("../SRC/10515FILE/res/f25e4bfbd7364d6eb51cec3aeb690629.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 100px;
 }
